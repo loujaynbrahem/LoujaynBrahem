@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello World!
+I'm Loujaïn, a 20-year-old First year CS engineering student, devoted to coding, building, breaking, and rebuilding one bug at a time! 
 
-<!--
-**loujaynbrahem/LoujaynBrahem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
+[https://loujaynbrahem.carrd.co](https://loujaynbrahem.carrd.co)
 
-Here are some ideas to get you started:
+### Skills
+ Languages: C, Python, SQL, HTML, CSS, JavaScript
+ Core CS Concepts: Algorithms, Data Structures, Object-Oriented Programming, Automata Theory, Graph Theory
+ Web Development: Basic front-end (HTML/CSS/JS), back-end fundamentals
+ Operating Systems: Unix/Linux basics, shell commands, process management
+ Databases: SQL, Database Design, Database Management Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me: Loujainbrahem@gmail.com
+
